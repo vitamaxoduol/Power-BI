@@ -1,1 +1,1 @@
-# Tutorial on Data Analytics Power BI
+# Tutorial on Data Analytics Power-BI
